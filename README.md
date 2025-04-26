@@ -1,85 +1,30 @@
-# 📱 Assignment #1 - UI Composition - Group No. 4
+# 📱 Assignment #1 - Word Frequency Counter (Dart Program) - Group No. 4
 
 ## 👥 Group Members
 - **Hamad Naseem** - 2280143  
-- **Muhammad Bn Tariq** - 2280150
+- **Muhammad Bin Tariq** - 2280150
 
----
+## 📱 About
+This is a simple Dart console application that analyzes a list of sentences and finds the words with the highest frequency in each sentence.
 
-## 🎯 Assignment Objectives
+## 🚀 Features
+- Takes multiple sentences.
+- Converts all sentences to lowercase for uniform counting.
+- Splits sentences into words.
+- Counts the frequency of each word.
+- Displays the most frequent words along with their count for each sentence.
 
-1. Learn how to configure and use Flutter and related tools effectively.  
-2. Understand UI layout principles and apply them by recreating modern mobile designs using Flutter.
+## 🛠 How to Run
+1. Clone this repository.
+2. Make sure Dart SDK or Flutter is installed.
+3. Open the project folder.
+4. Run:
+   ```bash
+   dart run
 
----
+## 📄 Example Output
 
-## 📁 Repository Structure
+in 0 , the most frequency words are : really, is with 3 count
+in 1 , the most frequency words are : cute, little, experiment with 1 count
+in 2 , the most frequency words are : it, will with 4 count
 
-This repository contains 4 separate Flutter projects, each corresponding to a part of the assignment:
-
-
----
-
-## ✅ Part 1: Write My First App
-
-- Completed using the official Flutter **"Write your first app"** tutorial.  
-- Atomic commits made at each step with clear commit messages.  
-- Final output screenshot:
-
-![Part 1 Screenshot](my_first_app/screenshots/final_output.png)
-
----
-
-## ✅ Part 2: Build a Flutter Layout (Optional)
-
-- Bonus part completed using Flutter's layout tutorial.  
-- Atomic commits reflect step-by-step progress.  
-- Final output screenshot:
-
-![Part 2 Screenshot](flutter_layout_tutorial/screenshots/final_output.png)
-
----
-
-## ✅ Part 3: Recreate Selected Design
-
-- Screenshot selected: **programminghub.jpg**  
-- Fully recreated using Flutter with custom widgets and structured layout.  
-- Final output screenshot:
-
-![Part 3 Screenshot](programminghub/screenshots/final_output.png)
-
----
-
-## ✅ Part 4: Assigned Design - Keep
-
-- Recreated precisely using Flutter as per the assigned screenshot for Group 4 (**keep.jpg**).  
-- Includes reusable widgets, responsiveness, and pixel-perfect styling.  
-- Final output screenshot:
-
-![Part 4 Screenshot](keep_design/screenshots/final_output.png)
-
----
-
-## 🧠 Judging Criteria Checklist
-
-✅ Pixel-perfect UI recreation  
-✅ Reusable widget structure  
-✅ Clean and modular code  
-✅ Responsive layout  
-✅ Proper atomic commits  
-
----
-
-## 📸 Screenshot Folders
-
-Each project contains a `screenshots/` folder with the final UI output image.
-
----
-
-## 🔗 Resources Used
-
-- [Flutter: Write your first app](https://docs.flutter.dev/get-started/codelab)  
-- [Flutter: Build a layout](https://docs.flutter.dev/ui/layout/tutorial)  
-- [Flutter: UI layout guide](https://docs.flutter.dev/ui/layout)
-
----
