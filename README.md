@@ -1,11 +1,11 @@
-# 📱 Assignment #1 - Word Frequency Counter (Dart Program) - Group No. 4
+# 📱 Assignment #1 - Word Frequency Counter - Group No. 4
 
 ## 👥 Group Members
 - **Hamad Naseem** - 2280143  
 - **Muhammad Bin Tariq** - 2280150
 
 ## 📱 About
-This is a simple Dart console application that analyzes a list of sentences and finds the words with the highest frequency in each sentence.
+This is a simple flutter program application that analyzes a list of sentences and finds the words with the highest frequency in each sentence.
 
 ## 🚀 Features
 - Takes multiple sentences.
