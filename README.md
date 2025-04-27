@@ -20,7 +20,7 @@ This is a simple Dart console application that analyzes a list of sentences and 
 3. Open the project folder.
 4. Run:
    ```bash
-   dart run
+   flutter run
 
 ## 📄 Example Output
 ![App Screenshot](assets/Screenshot.png)
