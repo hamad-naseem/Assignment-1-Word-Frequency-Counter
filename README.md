@@ -23,8 +23,13 @@ This is a simple Dart console application that analyzes a list of sentences and 
    dart run
 
 ## 📄 Example Output
+![App Screenshot](assets/Screenshot.png)
 
-in 0 , the most frequency words are : really, is with 3 count
-in 1 , the most frequency words are : cute, little, experiment with 1 count
-in 2 , the most frequency words are : it, will with 4 count
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
