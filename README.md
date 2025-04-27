@@ -1,20 +1,20 @@
-# 📱 Assignment #1 - Word Frequency Counter - Group No. 4
+# Assignment #1 - Word Frequency Counter - Group No. 4
 
-## 👥 Group Members
+## Group Members
 - **Hamad Naseem** - 2280143  
 - **Muhammad Bin Tariq** - 2280150
 
-## 📱 About
+## About
 This is a simple Dart console application that analyzes a list of sentences and finds the words with the highest frequency in each sentence.
 
-## 🚀 Features
+## Features
 - Takes multiple sentences.
 - Converts all sentences to lowercase for uniform counting.
 - Splits sentences into words.
 - Counts the frequency of each word.
 - Displays the most frequent words along with their count for each sentence.
 
-## 🛠 How to Run
+## How to Run
 1. Clone this repository.
 2. Make sure Dart SDK or Flutter is installed.
 3. Open the project folder.
@@ -22,7 +22,7 @@ This is a simple Dart console application that analyzes a list of sentences and 
    ```bash
    flutter run
 
-## 📄 Example Output
+## Example Output
 ![App Screenshot](assets/Screenshot.png)
 
 A few resources to get you started if this is your first Flutter project:
