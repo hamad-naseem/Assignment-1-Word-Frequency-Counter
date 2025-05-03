@@ -3,6 +3,7 @@
 ## Group Members
 - **Hamad Naseem** - 2280143  
 - **Muhammad Bin Tariq** - 2280150
+- **Rehan Badshah** - 2280159
 
 ## About
 This is a simple Dart console application that analyzes a list of sentences and finds the words with the highest frequency in each sentence.
